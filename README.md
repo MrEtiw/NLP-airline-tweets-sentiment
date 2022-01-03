@@ -15,7 +15,7 @@ Homework for Montreal Polytechnique's class *INF8111: Data Mining* part of the g
 
 **LANGUAGES / TECH**: 
 - Python
-- NLTK
+- NLTK library
 
 **ADDITIONAL INFOS:**
 - Made in equal collaboration with Pierre-Étienne Le Page (not active on Github) and Jade Wong (not active on Github)

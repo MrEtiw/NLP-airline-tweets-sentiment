@@ -10,7 +10,7 @@ Homework for Montreal Polytechnique's class *INF8111: Data Mining* part of the g
 - Results are aggregated according to the mentionned airlines: *Virgin America*, *United Airlines*, *Southwest Airlines*, *JetBlue*, *USAirways*, *American Airlines*.
 - Focus is on learning to pre-process text data and represent text-data into numerical format. Not the performance of the ML classifier.
 - Exploring impact on classifier's performance of different pre-processing steps for the pipeline: unigram, bigram, trigram, stemming, lemming, removing URLs, BoW vs TF-IDF.
-- Exploring caracteristics of the corpus, including word popularity for different airlines and sentiemnts.
+- Exploring caracteristics of the corpus, including word popularity for different airlines and sentiments.
 - Explanations and comments written in French.
 
 **LANGUAGES / TECH**: 
